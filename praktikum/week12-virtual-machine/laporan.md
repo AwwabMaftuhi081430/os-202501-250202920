@@ -77,7 +77,7 @@ praktikum/week12-virtual-machine/
 7. **Commit & Push**
    ```bash
    git add .
-   git commit -m "Minggu 12 - Virtual Machine" 
+   git commit -m "Minggu 12 - Virtual Machine"
    git push origin main
 
 
