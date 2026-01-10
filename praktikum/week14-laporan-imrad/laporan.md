@@ -82,7 +82,7 @@ Berikut adalah hasil perbandingan performa antara algoritma FCFS dan SJF berdasa
 | **Rata-rata** | **8.0** | **4.5** | **12.5** |
 
 ### Grafik Perbandingan (Gantt Chart)
-![alt text](image.png)
+![alt text](GRAFIK.png)
 
 
 *Gambar 1: Visualisasi urutan eksekusi proses (Gantt Chart). Sumbu horizontal menunjukkan deret waktu dalam milidetik. Pada FCFS, proses berjalan sesuai urutan $P_1$ ke $P_4$, sedangkan SJF mengurutkan dari beban terkecil ke terbesar.*
@@ -101,18 +101,16 @@ Hasil ini sesuai dengan teori yang menyatakan bahwa SJF memberikan rata-rata wak
 
 ---
 
-## 5. Kesimpulan
-1. **Efisiensi:** SJF terbukti jauh lebih efisien dalam meminimalkan waktu tunggu dibandingkan FCFS (penurunan $AWT$ dari 18.75 ms menjadi 4.5 ms).
-2. **Karakteristik:** FCFS sangat dipengaruhi oleh urutan kedatangan, sedangkan SJF dipengaruhi oleh beban kerja proses.
-3. **Rekomendasi:** SJF cocok digunakan pada sistem batch yang mengutamakan throughput, namun perlu mekanisme tambahan untuk menghindari starvation pada proses besar.
-
----
-
 ## Daftar Pustaka
 1. Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley.
 2. Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson Education.
 
 ---
+
+## Kesimpulan
+1. **Efisiensi:** SJF terbukti jauh lebih efisien dalam meminimalkan waktu tunggu dibandingkan FCFS (penurunan $AWT$ dari 18.75 ms menjadi 4.5 ms).
+2. **Karakteristik:** FCFS sangat dipengaruhi oleh urutan kedatangan, sedangkan SJF dipengaruhi oleh beban kerja proses.
+3. **Rekomendasi:** SJF cocok digunakan pada sistem batch yang mengutamakan throughput, namun perlu mekanisme tambahan untuk menghindari starvation pada proses besar.
 
 ## Quiz ##
 
