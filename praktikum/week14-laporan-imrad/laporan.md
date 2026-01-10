@@ -101,12 +101,6 @@ Hasil ini sesuai dengan teori yang menyatakan bahwa SJF memberikan rata-rata wak
 
 ---
 
-## Daftar Pustaka
-1. Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley.
-2. Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson Education.
-
----
-
 ## Kesimpulan
 1. **Efisiensi:** SJF terbukti jauh lebih efisien dalam meminimalkan waktu tunggu dibandingkan FCFS (penurunan $AWT$ dari 18.75 ms menjadi 4.5 ms).
 2. **Karakteristik:** FCFS sangat dipengaruhi oleh urutan kedatangan, sedangkan SJF dipengaruhi oleh beban kerja proses.
@@ -132,3 +126,9 @@ Hasil ini sesuai dengan teori yang menyatakan bahwa SJF memberikan rata-rata wak
    **Jawaban:**
 
    Penting untuk menjaga integritas akademik, menghindari plagiarisme, memberikan penghargaan pada peneliti sebelumnya, dan memperkuat argumen dalam laporan dengan dasar teori yang valid.
+
+   ---
+
+## Daftar Pustaka
+1. Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (10th ed.). Wiley.
+2. Tanenbaum, A. S., & Bos, H. (2014). *Modern Operating Systems* (4th ed.). Pearson Education.
